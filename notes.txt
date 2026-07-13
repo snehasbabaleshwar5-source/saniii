@@ -1,2 +1,2 @@
-hello git
+hello from main branch
 this line was updated 
